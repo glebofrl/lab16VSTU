@@ -53,7 +53,8 @@ int main() {
     setlocale(LC_ALL, "RUS");
     srand(time(NULL));
     while (1) {
-        int size = rand() % 40 + 10;    double* a;
+        int size = rand() % 40 + 10;   
+        double* a;
         double* b;
         double* c;
         double* d;
