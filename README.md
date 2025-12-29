@@ -30,7 +30,7 @@
 ### Блок-схема алгоритма
 - main() <br>
 ![Блок-схема алгоритма](scheme1.png) <br>
-- insert <br>
+- insert(double* d, double* a, double* b, double* c, int size, int* dsize) <br>
 ![Блок-схема алгоритма](scheme2.png) <br>
 
 [https://github.com/glebofrl/lab16VSTU/blob/master/scheme1.png](https://github.com/glebofrl/lab16VSTU/blob/master/scheme1.png)
